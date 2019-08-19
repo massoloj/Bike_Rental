@@ -1,6 +1,6 @@
 # Bike Rental
 
-##Author
+## Author
 
 Julián Massolo
 
@@ -15,7 +15,7 @@ This project models a company's bike rental business. There are 3 types of renta
 discount of 30% of the total price
 
 ## Project structure
-###### INTIVE_FDV
+###### Bike_Rental
     |
     |-- app: contains the business logic
     |    |
